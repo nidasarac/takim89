@@ -1,7 +1,7 @@
 # Takım Elemanları
   - Süheyla Yazıcıoğlu- Scrum Master
   - Miraç Yusuf Çalışkan -Developer
-  - Berfin İpek- Product Owner
+  - Berfin İpek- Product Owner-Developer
   - Hatice Nida Saraç-Developer
  ## Ürün İsmi
 
