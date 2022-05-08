@@ -1,43 +1,41 @@
 # Takım Elemanları
-  - Süheyla Yazıcıoğlu- Scrum Master
-  - Miraç Yusuf Çalışkan -Developer
-  - Berfin İpek- Product Owner-Developer
-  - Hatice Nida Saraç-Developer
+  - Miraç Yusuf Çalışkan -Product Owner/ Game Artist
+  - Süheyla Yazıcıoğlu -Scrum Master/ Game Artist
+  - Berfin İpek -Developer
+  - Hatice Nida Saraç -Developer
+  - Esma Nur Kuru -Developer
  ## Ürün İsmi
-
+**
 
 ## Ürün Açıklaması
-
+3D Platformer, mobil oyun.
+Çok da uzak olmayan bir gelecekte, Metaverse'te yaşamaktan sıkılmış olan karakterimiz, dünyayı tanımak ve hayatı keşfetmek için bir yolculuğa çıkar. Bu yolculukta karşısına birçok dikkat dağıtıcı çıkacak ve hayatı sorgulama yetisini kaybetmesi için çalışacaktır.
 ## Hedef Kitle
-
+Casual Mobil oyun oyuncuları.
 ## Product Backlog URL
-
+https://team89.atlassian.net/jira/software/projects/BC/boards/1
 # Sprint 1
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Tamamlanan puan: 50
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, issue'ler story'leri temsil etmektedir.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+- **Daily Scrum**: https://drive.google.com/drive/folders/1HKeKT4ZsIAfMMDGcXwHxBMRTvl8zadz1?usp=sharing
 
 - **Sprint board update**: Sprint board screenshotları:
-![image](https://user-images.githubusercontent.com/82094661/165190120-b8d65414-c49a-4489-9cbe-8d85ba40f833.png)
-![image](https://user-images.githubusercontent.com/82094661/165190127-65ca7df9-303e-4afe-be3a-a14c11d1139c.png)
-![image](https://user-images.githubusercontent.com/82094661/165190140-f60819fe-ed14-4858-a914-e973180dd839.png)
+![Ekran Görüntüsü (147)](https://user-images.githubusercontent.com/104697864/167311892-26496154-0461-4a61-ad52-eff4c28a8c10.png)
+
 - **Ürün Durumu**: Ekran görüntüleri:
-- **Sprint Review**: Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- **Sprint Review**: Alınan kararlar: Önümüzdeki sprint için detaylı plan yapılacak. Kalan görevler bir sonraki sprinte aktarılacak ve user story'ler oluşturulacak. Sprint Review katılımcıları: Süheyla Yazıcıoğlu
 
 - **Sprint Retrospective**:
 
-  * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  * Toplantı gün/saatleri belli olacak, herkes buna riayet edecek.
   * Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   * Unit test'ler için ayrılan efor/saat arttırılmalı
--Diğer Notlar:
+-Diğer Notlar: 
 
 - N/A
 # Sprint 2
