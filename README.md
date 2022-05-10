@@ -16,11 +16,13 @@ Casual Mobil oyun oyuncuları.
 https://team89.atlassian.net/jira/software/projects/BC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiYmMzNmFhNjg4ZjI3NDBiNmIyMmVhMGEyNGFjZDAzNmIiLCJwIjoiaiJ9
 # Sprint 1
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- 
+- **Puan tamamlama mantığı**: Üç sprintte toplam 300 puanlık backlog bulunmaktadır.
 
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 - Tamamlanan puan: 50
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, issue'ler story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, yeşil item'ler story'leri temsil etmektedir.
 
 - **Daily Scrum**: https://drive.google.com/drive/folders/1HKeKT4ZsIAfMMDGcXwHxBMRTvl8zadz1?usp=sharing
 
