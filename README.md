@@ -37,32 +37,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken chi
   * Toplantı gün/saatleri belli olacak, herkes buna riayet edecek.
   * Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   * Unit test'ler için ayrılan efor/saat arttırılmalı
--Diğer Notlar: 
 
-- N/A
-# Sprint 2
 
-# Takım Elemanları
-  - Miraç Yusuf Çalışkan -Product Owner/ Game Artist
-  - Süheyla Yazıcıoğlu -Scrum Master/ Game Artist
-  - Berfin İpek -Developer
-  - Hatice Nida Saraç -Developer
-  - Esma Nur Kuru -Developer
- ## Ürün İsmi
-**
-
-## Ürün Açıklaması
-3D Platformer, mobil oyun.
-Çok da uzak olmayan bir gelecekte, Metaverse'te yaşamaktan sıkılmış olan karakterimiz, dünyayı tanımak ve hayatı keşfetmek için bir yolculuğa çıkar. Bu yolculukta karşısına birçok dikkat dağıtıcı çıkacak ve hayatı sorgulama yetisini kaybetmesi için çalışacaktır.
-## Ürün Özellikleri
-- Casual ve puzzle-platformer olan bir oyun.
-- Oyun sanatı, oyunun çekiciliğini artırıyor ve oyuncuda merak uyandırıyor.
-- Oyunun hikayesi, personası olan oyuncuyu düşündürüyor ve empati yapmasını sağlıyor.
-
-## Hedef Kitle
-16-25 yaş arası Casual Mobil oyun oyuncuları.
-## Product Backlog URL
-https://team89.atlassian.net/jira/software/projects/BC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiYmMzNmFhNjg4ZjI3NDBiNmIyMmVhMGEyNGFjZDAzNmIiLCJwIjoiaiJ9
 # Sprint 2
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
@@ -98,7 +74,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken chi
   * Takımda istikrar sağlanmalı.
   * Takım üyeleri görevlere daha çok odaklanmalı.
   * Proje daha hızlı ilerlemeli.
--Diğer Notlar: 
 
 
 # Sprint 3
