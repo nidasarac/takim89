@@ -45,7 +45,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken chi
 -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Her sprintte 100 puan tamamlanmalıdır.
 
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-- Tamamlanan puan: 50
+- Tamamlanan puan: 85
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, yesil item'ler story'leri temsil etmektedir.
 
