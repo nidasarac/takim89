@@ -10,8 +10,14 @@
 ## Ürün Açıklaması
 3D Platformer, mobil oyun.
 Çok da uzak olmayan bir gelecekte, Metaverse'te yaşamaktan sıkılmış olan karakterimiz, dünyayı tanımak ve hayatı keşfetmek için bir yolculuğa çıkar. Bu yolculukta karşısına birçok dikkat dağıtıcı çıkacak ve hayatı sorgulama yetisini kaybetmesi için çalışacaktır.
+
+## Ürün Özellikleri
+- Casual ve puzzle-platformer olan bir oyun.
+- Oyun sanatı, oyunun çekiciliğini artırıyor ve oyuncuda merak uyandırıyor.
+- Oyunun hikayesi, personası olan oyuncuyu düşündürüyor ve empati yapmasını sağlıyor.
+
 ## Hedef Kitle
-Casual Mobil oyun oyuncuları.
+16-25 yaş arası Casual Mobil oyun oyuncuları.
 ## Product Backlog URL
 https://team89.atlassian.net/jira/software/projects/BC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiYmMzNmFhNjg4ZjI3NDBiNmIyMmVhMGEyNGFjZDAzNmIiLCJwIjoiaiJ9
 # Sprint 1
