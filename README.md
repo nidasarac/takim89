@@ -1,5 +1,3 @@
-# takim89
-akademi bootcamp 
 Takım Elemanları
 Miraç Yusuf Çalışkan -Product Owner
 Süheyla Yazıcıoğlu -Scrum Master/ Game Artist
@@ -69,33 +67,22 @@ Takımda istikrar sağlanmalı.
 Takım üyeleri görevlere daha çok odaklanmalı.
 Proje daha hızlı ilerlemeli.
 Sprint 3
-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
--Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Her sprintte 100 puan tamamlanmalıdır.
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Her sprintte 100 puan tamamlanmalıdır.
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-Tamamlanan puan: 85
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, yesil item'ler story'leri temsil etmektedir.
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan Tamamlanan puan: 85 Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken child issue'ler yapılacak işleri (task) gösterirken, yesil item'ler story'leri temsil etmektedir.
 
 Daily Scrum: https://drive.google.com/drive/folders/1HKeKT4ZsIAfMMDGcXwHxBMRTvl8zadz1?usp=sharing
 
 Sprint board update: Sprint board screenshotları:
 
-![Ekran Görüntüsü (226)](https://user-images.githubusercontent.com/104697864/172248805-31b47ebc-d872-4d8a-9b95-923a997d5472.png)
-![Ekran Görüntüsü (227)](https://user-images.githubusercontent.com/104697864/172248815-16de68e5-8c0e-4f6d-acda-87390f883c63.png)
-![Ekran Görüntüsü (238)](https://user-images.githubusercontent.com/104697864/172248895-a28604be-9e94-4794-9e1b-8932a23e6d08.png)
+Ekran Görüntüsü (226) Ekran Görüntüsü (227) Ekran Görüntüsü (238)
 
+Ürün Durumu: Ekran görüntüleri: Ekran Görüntüsü (239) Ekran Görüntüsü (240)
 
-Ürün Durumu: Ekran görüntüleri:
-![Ekran Görüntüsü (239)](https://user-images.githubusercontent.com/104697864/172249299-563c067b-421e-4120-a94c-a558d7e3c1b0.png)
-![Ekran Görüntüsü (240)](https://user-images.githubusercontent.com/104697864/172249307-42908f33-0714-40b5-ae5f-132b4743b837.png)
+Ekran Görüntüsü (242)
 
-![Ekran Görüntüsü (242)](https://user-images.githubusercontent.com/104697864/172249319-a698b599-d18b-40c9-a301-bbdaa5388233.png)
-
-![Ekran Görüntüsü (243)](https://user-images.githubusercontent.com/104697864/172249331-1a6008fe-a481-4763-8ee3-eaa03e312758.png)
-
-
+Ekran Görüntüsü (243)
 
 Sprint Review: Alınan kararlar:Deneyimler konuşuldu ve süreç tartışıldı Sprint Review katılımcıları: Süheyla Yazıcıoğlu, Esma Kuru
 
-Sprint Retrospective:
-Bundan sonra oyunumun ve bu sürecin önümüze nasıl fırsatlar sunacağını konuştuk.
+Sprint Retrospective: Bundan sonra oyunumun ve bu sürecin önümüze nasıl fırsatlar sunacağını konuştuk.
