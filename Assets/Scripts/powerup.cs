@@ -17,9 +17,9 @@ public class powerup : MonoBehaviour
         {
             Destroy(other.gameObject);
             _thirdPersonController.SprintSpeed = 10.0f;
-            Invoke("BackToNormalSpeed",3.0f);
+            Invoke("BackToNormalSpeed", 3.0f);
         }
-
+        
         if (other.gameObject.CompareTag("powerup0"))
         {
             Destroy(other.gameObject);
@@ -35,11 +35,15 @@ public class powerup : MonoBehaviour
 
     private void BackToNormalSpeed()
     {
-        _thirdPersonController.SprintSpeed = 5.33f;
+            _thirdPersonController.SprintSpeed = 5.33f;
     }
     
     private void BackToNormalHeight()
     {
         _thirdPersonController.JumpHeight = 1.2f;
     }
-}
+
+}       
+        
+        
+        
