@@ -1,11 +1,9 @@
 # Takım Elemanları
-  - Miraç Yusuf Çalışkan -Product Owner/ Game Artist
+  - Miraç Yusuf Çalışkan -Product Owner
   - Süheyla Yazıcıoğlu -Scrum Master/ Game Artist
-  - Berfin İpek -Developer
-  - Hatice Nida Saraç -Developer
   - Esma Nur Kuru -Developer
  ## Ürün İsmi
-**
+META-HOME
 
 ## Ürün Açıklaması
 3D Platformer, mobil oyun.
