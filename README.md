@@ -97,11 +97,13 @@ ard screenshotları:
 - ![Ekran Görüntüsü (228)](https://user-images.githubusercontent.com/104697864/172250278-23c597f1-46ee-4609-9c9b-8b3885f1dec0.png)
 ![Ekran Görüntüsü (238)](https://user-images.githubusercontent.com/104697864/172250298-20f8f76e-e9af-4eeb-847d-e7247656ee9f.png)
 - **Ürün Durumu**: Ekran görüntüleri:
-- 
-- ![Ekran Görüntüsü (239)](https://user-images.gith![Ekran Görüntüsü (240)](https://user-images.githubusercontent.com/104697864/172250388-b55abfcc-36d4-4e71-a972-1b0bf5d57aff.png)![Ekran Görüntüsü (242)](htt![Ekran Görüntüsü (243)](https://user-images.githubusercontent.com/104697864/172250452-74912600-8581-466e-9708-af6d75d07414.png)
-ps://user-images.githubusercontent.com/104697864/172250422-fc436900-a7a6-49ac-bfa7-1b54abe3540d.png)
+- ![Ekran Görüntüsü (241)](https://user-images.githubusercontent.com/104697864/172483619-60b299a7-ae30-4783-81c8-2fee3349cd16.png)
+![Ekran Görüntüsü (242)](https://user-images.githubusercontent.com/104697864/172483691-f5856c65-d999-4cdb-83c8-a7f9afaa245c.png)
+![Ekran Görüntüsü (243)](https://user-images.githubusercontent.com/104697864/172485831-651a7bb8-6622-400b-a7c9-939541ec39b2.png)
+![Ekran Görüntüsü (244)](https://user-images.githubusercontent.com/104697864/172485865-3f29e97a-e960-41f1-a030-4893c73e9818.png)
+![Ekran Görüntüsü (245)](https://user-images.githubusercontent.com/104697864/172485897-49193cd1-f4a2-4d60-84eb-6b29dbedc3c0.png)
 
-ubusercontent.com/104697864/172250354-98747614-9ab4-48c6-b6b8-22f3fe031b27.png)
+
 - **Sprint Review**: Alınan kararlar: Deneyimler konuşuldu ve süreç tartışıldı Sprint Review katılımcıları: Süheyla Yazıcıoğlu, Esma Kuru
 
 - **Sprint Retrospective**:
